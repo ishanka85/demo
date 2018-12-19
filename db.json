@@ -1,14 +1,72 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        "id": 1,
+        "name": "Bambalapitiya",
+        "email": "ishanka_layanthi@yahoo.com",
+        "phone_number": "710403014",
+        "fax": "712124324",
+        "currency": "LKR",
+        "display_content": "Services",
+        "no_of_slots": 1,
+        "no_of_service_display": 1,
+        "no_of_slots_display": 1,
+        "booking_slot_size": 1,
+        "summary": "test.",
+        "address_name": "Ishanka Sa",
+        "address_street": "sds, sds",
+        "address_city": "Colombo",
+        "address_province": "Western",
+        "address_post_code": 12,
+        "address_country": "Sri Lanka",
+        "company_id": 1,
+        "created_at": "2018-12-06 10:02:51",
+        "updated_at": "2018-12-12 07:50:22"
+    },
+    {
+        "id": 3,
+        "name": "maharagama",
+        "email": "ishanka_layanthi@yahoo.com",
+        "phone_number": "710403014",
+        "fax": "73242324",
+        "currency": "LKR",
+        "display_content": "Services",
+        "no_of_slots": 1,
+        "no_of_service_display": 1,
+        "no_of_slots_display": 1,
+        "booking_slot_size": 1,
+        "summary": "test.",
+        "address_name": "Ishanka",
+        "address_street": "Galpoththawatta",
+        "address_city": "Pitipana North",
+        "address_province": "Western",
+        "address_post_code": 112,
+        "address_country": "Sri Lanka",
+        "company_id": 1,
+        "created_at": "2018-12-07 10:02:55",
+        "updated_at": "2018-12-07 10:25:52"
+    },
+    {
+        "id": 4,
+        "name": "Nugegoda",
+        "email": "ishanka_layanthi@yahoo.com",
+        "phone_number": "710403014",
+        "fax": "723444332",
+        "currency": "LKR",
+        "display_content": "Services",
+        "no_of_slots": 1,
+        "no_of_service_display": 1,
+        "no_of_slots_display": 1,
+        "booking_slot_size": 1,
+        "summary": "test.",
+        "address_name": "Ishanka",
+        "address_street": "Galpoththawatta",
+        "address_city": "Homgama",
+        "address_province": "Western",
+        "address_post_code": 112,
+        "address_country": "Sri Lanka",
+        "company_id": 1,
+        "created_at": "2018-12-07 10:03:28",
+        "updated_at": "2018-12-07 10:03:28"
+    }
+]
+
