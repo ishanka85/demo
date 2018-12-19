@@ -22,27 +22,7 @@
         "company_id": 1,
         "created_at": "2018-12-06 10:02:51",
         "updated_at": "2018-12-12 07:50:22",
-        "vehicle_types": [
-            {
-                "id": 1,
-                "vehicle_type_name": "Mini Bus",
-                "icon": "abc.jpg",
-                "order": 2
-            },
-            {
-                "id": 2,
-                "vehicle_type_name": "Truck",
-                "icon": "abs.jpg",
-                "order": 1
-            },
-            {
-                "id": 3,
-                "vehicle_type_name": "New Type",
-                "icon": "abc.jpg",
-                "order": 3
-            }
         
-        ]
     },
     {
         "id": 3,
