@@ -95,5 +95,15 @@
             "icon": "abc.jpg",
             "order": 3
         }
+    ],
+    "timeslots": [
+        {
+            "id": 1,
+            "weekday": "SUNDAY",
+            "open_time": "10.00",
+            "close_time": "12.00",
+            "booking_slot_size": 30,
+            
+        }
     ]
 }
