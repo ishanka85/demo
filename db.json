@@ -125,5 +125,61 @@
             "booking_slot_size": 30
             
         }
-    ]
+    ],
+    "packages": [
+     {
+        "id": 1,
+        "name": "Basic Hand Wash",
+        "price": "50.00",
+        "service": [
+            {
+                "id": 1,
+                "name": "Service1"
+            },
+            {
+                "id": 2,
+                "name": "Service1"
+            }
+        ],
+        "duration": 60
+    },
+    {
+        "id": 2,
+        "name": "Deluxe Wash",
+        "price": "100.00",
+        "service": [
+            {
+                "id": 1,
+                "name": "Service1"
+            }
+        ],
+        "duration": 20
+    },
+
+ {
+        "id": 3,
+        "name": "Ultimate shine",
+        "price": "150.00",
+        "service": [
+            {
+                "id": 1,
+                "name": "Service1"
+            }
+        ],
+        "duration": 40
+    },
+
+{
+        "id": 4,
+        "name": "Platinum Works",
+        "price": "200.00",
+        "service": [
+            {
+                "id": 1,
+                "name": "Service1"
+            }
+        ],
+        "duration": 20
+    }
+]
 }
