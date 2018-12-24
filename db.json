@@ -134,7 +134,10 @@
         "service": [
             {
                 "id": 1,
-                "name": "Service1"
+                "name": "Service1",
+                "service_status":1,
+                "price":60.00,
+                "duration":20
             },
             {
                 "id": 2,
