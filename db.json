@@ -133,14 +133,14 @@
         "price": "50.00",
         "service": [
             {
-                "id": 2,
+                "id": 1,
                 "name": "Service1",
                 "service_status":1,
                 "price":60.00,
                 "duration":20
             },
             {
-                "id": 1,
+                "id": 2,
                 "name": "Service2",
                 "service_status":2,
                 "price":60.00,
@@ -177,7 +177,7 @@
             {
                 "id": 1,
                 "name": "Service1",
-                "service_status":2
+                "service_status":1
             }
         ],
         "duration": 40
