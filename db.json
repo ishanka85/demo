@@ -198,8 +198,7 @@
         "duration": 20
     }
 ],
-    "booking_slot_size":30,
-    [
+    "booking_slot_size":[
       {
      "weekday" : "sunday",
      "open_time":"10.00",
