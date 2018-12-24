@@ -141,7 +141,7 @@
             },
             {
                 "id": 1,
-                "name": "Service2",
+                "name": "Service1",
                 "service_status":2,
                 "price":60.00,
                 "duration":20
