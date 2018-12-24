@@ -197,5 +197,37 @@
         ],
         "duration": 20
     }
-]
+],
+    "booking_slot_size":30,
+    [
+    {
+    "weekday" : "sunday",
+    "open_time":"10.00",
+    "close_time":"12.00"
+    },
+    "weekday" : "sunday",
+    "open_time":"10.30",
+    "close_time":"12.30"
+    },
+    "weekday" : "sunday",
+    "open_time":"11.00",
+    "close_time":"01.00"
+    },
+    "weekday" : "sunday",
+    "open_time":"11.30",
+    "close_time":"01.30"
+    },
+     "weekday" : "sunday",
+    "open_time":"12.00",
+    "close_time":"02.00"
+    },
+     "weekday" : "sunday",
+    "open_time":"12.30",
+    "close_time":"02.30"
+    },
+     "weekday" : "sunday",
+    "open_time":"01.00",
+    "close_time":"03.00"
+    }
+  ]  
 }
