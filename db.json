@@ -217,13 +217,7 @@
                "close_time": 14.30
                
            },
-           {
-               "branch_id": 3,
-               "weekday": "TUESDAY",
-               "open_time": 11.00,
-               "close_time": 15.00
-               
-           }
+     
            
            
        ]
