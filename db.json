@@ -257,13 +257,13 @@
                "open_time": 01.00,
                "close_time": 17.00
                
-         }  
+          
        }
        ],
             "booked_timeslot": [
                 11.3,12.00,13.30
             ] 
 
-        }
+        
    
 }
