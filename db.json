@@ -207,15 +207,15 @@
                "branch_id": 1,
                "weekday": "SUNDAY",
                "open_time": 10,
-               "close_time": 14,
-               "DateTimeFormate": 'mmm, yyyy'
+               "close_time": 14
+              
            },
            {
                "branch_id": 2,
                "weekday": "FRIDAY",
                "open_time": 10.30,
-               "close_time": 14.30,
-               "DateTimeFormate": 'mmm, yyyy'
+               "close_time": 14.30
+               
            }
        ]
 
