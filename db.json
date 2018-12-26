@@ -206,14 +206,14 @@
            {
                "branch_id": 11,
                "weekday": "SUNDAY",
-               "open_time": 10 am,
-               "close_time": 14 pm
+               "open_time": 10,
+               "close_time": 14
            },
            {
                "branch_id": 11,
                "weekday": "FRIDAY",
-               "open_time": 10.30 am,
-               "close_time": 14.30 pm
+               "open_time": 10.30,
+               "close_time": 14.30
            }
        ]
 
