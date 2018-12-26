@@ -223,14 +223,8 @@
                "open_time": 11.00,
                "close_time": 15.00
                
-           },
-           {
-               "branch_id": 4,
-               "weekday": "WEDNESDAY",
-               "open_time": 11.30,
-               "close_time": 15.30
-               
            }
+           
            
        ]
 
