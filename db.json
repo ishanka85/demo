@@ -203,7 +203,12 @@
           {
                "id": 11,
                "booking_slot_size":30,
-               "open_hour": [
+               "open_hour": ["branch_timeslot": [{
+				"id": 3,
+				"booking_slot_size": 1,
+				"open_hour": []
+			}],
+		
            {
                "branch_id": 1,
                "weekday": "SUNDAY",
