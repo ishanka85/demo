@@ -201,19 +201,19 @@
     "booking_slot_time":[
         {
                "id": 11,
-               "booking_slot_size": 1,
+               "booking_slot_size":30,
                "open_hour": [
            {
                "branch_id": 11,
                "weekday": "SUNDAY",
-               "open_time": 10,
-               "close_time": 2
+               "open_time": 10 am,
+               "close_time": 14 pm
            },
            {
                "branch_id": 11,
                "weekday": "FRIDAY",
-               "open_time": 3,
-               "close_time": 8
+               "open_time": 10.30 am,
+               "close_time": 14.30 pm
            }
        ]
 
