@@ -216,8 +216,21 @@
                "open_time": 10.30,
                "close_time": 14.30
                
+           },
+           {
+               "branch_id": 3,
+               "weekday": "TUESDAY",
+               "open_time": 10.30,
+               "close_time": 14.30
+               
+           },        
+           {
+               "branch_id": 4,
+               "weekday": "WEDNESDAY",
+               "open_time": 10.30,
+               "close_time": 14.30
+               
            }
-     
            
            
        ]
