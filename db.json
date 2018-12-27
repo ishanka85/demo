@@ -244,7 +244,14 @@
 				"open_time": 12.30,
 				"close_time": 16.30
 
-			}
+			},
+			{
+				"branch_id": 6,
+				"weekday": "SATURDAY",
+				"open_time": 1.00,
+				"close_time": 17.00
+
+			}      
 		]
 	}],
 	"booked_timeslot": [
